@@ -4,21 +4,21 @@
         <description><![CDATA[Jere the Dog]]></description>
         <link>https://thegrid.ai/jere-the-dog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 20:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 20:57:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jere-the-dog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, World!]]></title>
+            <description><![CDATA[<article><h1>Hello, World!</h1><p>This is a site about Jere the dog and his brother, Totti.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/107ee44b1bff733efdd2c15df069fa8616bac129.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jere-the-dog/hello-world/index.html</link>
+            <guid isPermaLink="false">c9555445-8149-465b-8eef-0b3496aa8a5e</guid>
+            <pubDate>Sun, 10 Jan 2016 20:56:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bed50326-2cbd-4c40-ab20-c1752383e482.jpg">]]></description>
             <link>https://thegrid.ai/jere-the-dog/1984a2ac-8869-4d41-9e1b-07b1a6d9634f/index.html</link>
             <guid isPermaLink="false">1984a2ac-8869-4d41-9e1b-07b1a6d9634f</guid>
             <pubDate>Sun, 10 Jan 2016 20:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hello, World!]]></title>
-            <description><![CDATA[<article><h1>Hello, World!</h1><p>This is a site about Jere the dog and his brother, Totti.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/107ee44b1bff733efdd2c15df069fa8616bac129.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jere-the-dog/hello-world/index.html</link>
-            <guid isPermaLink="false">c9555445-8149-465b-8eef-0b3496aa8a5e</guid>
-            <pubDate>Sun, 10 Jan 2016 20:50:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
